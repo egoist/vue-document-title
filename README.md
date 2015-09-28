@@ -24,6 +24,8 @@ Declarative, nested, stateful document title for Vue
 </document-title>
 ```
 
+Or like the unread count on an inbox, it can change the document title dynamically.
+
 ## License
 
 MIT.
